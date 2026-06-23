@@ -1,5 +1,5 @@
-**A PyQt6-based GUI for mice behavior scoring. 
-**
+**A PyQt6-based GUI for mice behavior scoring**
+
 This tool provides frame-by-frame video navigation and manual logging of behavioral events.
 
 **Features**
@@ -22,7 +22,7 @@ This tool provides frame-by-frame video navigation and manual logging of behavio
 
     OpenCV
 
-**    Usage**
+**Usage**
 
     Run the script: python behavior_scorer.py.
 
